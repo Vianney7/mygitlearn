@@ -5,7 +5,8 @@
 
   var_files:
     - "group_vars"
+    - "new_vars"
   
-
+  
   
 
